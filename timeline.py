@@ -1,1 +1,1 @@
-print("Hello Galaxy")
+Hello Galaxy
